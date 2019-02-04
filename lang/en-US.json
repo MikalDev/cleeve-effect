@@ -1,0 +1,27 @@
+{
+  "languageTag": "en-US",
+  "fileDescription": "Strings for Cleeve.",
+  "text": {
+    "effects": {
+      "cleeve": {
+        "name": "Cleeve",
+        "description": "Cleeve image (vertically) by given pixels with parameter for exponent",
+        "help-url": "",
+        "parameters": {
+          "cleeve": {
+            "name": "Cleeve",
+            "desc": "Amount to cleeve (in pixels)"
+          },
+          "power": {
+            "name": "Power",
+            "desc": "Exponent of varying y sample as x increases"
+          },
+          "cleevecenter": {
+            "name": "CleeveCenter",
+            "desc": "Cleeve Center (0-1)"
+          }
+        }
+      }
+    }
+  }
+}

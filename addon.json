@@ -1,0 +1,48 @@
+{
+  "is-c3-addon": true,
+  "type": "effect",
+  "name": "Cleeve",
+  "id": "cleeve",
+  "version": "0.1.0.0",
+  "author": "Mikal",
+  "website": "https://www.construct.net",
+  "documentation": "https://www.construct.net",
+  "description": "Cleeve",
+  "file-list": [
+    "lang/en-US.json",
+    "addon.json",
+    "effect.fx"
+  ],
+  "category": "distortion",
+  "blends-background": true,
+  "cross-sampling": false,
+  "preserves-opaqueness": true,
+  "animated": false,
+  "extend-box": {
+    "horizontal": 0,
+    "vertical": 0
+  },
+  "parameters": [
+    {
+      "id": "cleeve",
+      "c2id": "cleeve",
+      "type": "float",
+      "initial-value": 0,
+      "uniform": "Cleeve"
+    },
+    {
+      "id": "power",
+      "c2id": "power",
+      "type": "float",
+      "initial-value": 2,
+      "uniform": "Power"
+    },
+    {
+      "id": "cleevecenter",
+      "c2id": "cleevecenter",
+      "type": "float",
+      "initial-value": 0.5,
+      "uniform": "CleeveCenter"
+    }
+  ]
+}
