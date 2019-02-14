@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<!-- One of: plugin, behavior, effect -->
+	<type>effect</type>
+	
+	<name>Cleeve</name>	
+	<version>0.1.0.2</version>
+	<author>Mikal</author>
+	<website>-</website>
+	<documentation>-</documentation>
+	<description>Cleave image (horizontally) by given pixels at given point</description>
+</c2addon>
